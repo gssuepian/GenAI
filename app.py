@@ -99,7 +99,7 @@ if page == "Home":
     st.markdown('---')
 
     st.markdown("""
-    <link href="https://fonts.googleapis.com/css2?family=The+Seasons&display=swap" rel="stylesheet">
+    #<link href="https://fonts.googleapis.com/css2?family=The+Seasons&display=swap" rel="stylesheet">
     <h1 style="color: #110301; font-family: 'The Seasons', serif; font-weight: bold; text-align: center;">
         What we do
     </h1>
